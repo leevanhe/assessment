@@ -7,6 +7,7 @@ Je gaat een ‘task manager’ maken om bepaalde taken aan te kunnen maken en te
 - Titel
 - Beschrijving
 - Naam van assignee
+
 Het moet ook mogelijk zijn om:
 - Taken te bewerken of te verwijderen.
 - Taken in te zien op een kanban bord met de statussen als lanes.
